@@ -31,3 +31,4 @@ Key Features:
 The design should feel premium, modern, trustworthy, and conversion-focused. Navigation should be optimized for one-hand mobile usage with large touch-friendly buttons and smooth animations. The website should include proper API integration between frontend and backend, secure payment verification, image optimization, and scalable database architecture.
 
 The goal is to create a professional eCommerce platform that increases user engagement, trust, and product sales while delivering a smooth mobile shopping experience.
+## output
