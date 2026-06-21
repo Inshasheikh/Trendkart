@@ -32,3 +32,4 @@ The design should feel premium, modern, trustworthy, and conversion-focused. Nav
 
 The goal is to create a professional eCommerce platform that increases user engagement, trust, and product sales while delivering a smooth mobile shopping experience.
 ## output
+<img width="177" height="250" alt="Trendkart" src="https://github.com/user-attachments/assets/d4c714e2-ca28-49a8-b148-001ac9621c96" />
