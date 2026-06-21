@@ -1,7 +1,7 @@
 # Trendkart
 Build a modern mobile-first eCommerce website for selling smart watches, power banks, mobile accessories, and trending Instagram viral products. The website should be designed primarily for smartphone users with a clean, premium, and user-friendly interface
 
-Use only HTML, CSS, JavaScript, GSAP, and Three.js for the frontend. The backend should be built with Node.js, Express.js, and MongoDB. The website must be fast, responsive, and optimized for mobile devices.
+Use only HTML, CSS, JavaScript for the frontend. The backend should be built with Node.js, Express.js, and MongoDB. The website must be fast, responsive, and optimized for mobile devices.
 
 Key Features:
 
